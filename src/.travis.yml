@@ -13,6 +13,5 @@ deploy:
   domain: react-test-cases-practice.surge.sh
   project: ./build
 
-
 on:
   branch: master
